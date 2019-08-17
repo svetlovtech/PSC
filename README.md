@@ -15,7 +15,7 @@ usage: SelenaPSC.jar [-h] [-p <arg>] [-t <arg>]
  
  -t,--time-out-ms <arg>        get proxies less than %s ms. Default: 1500
  
- Compiled jar: https://drive.google.com/file/d/1lodEyQS6yLZm9BZJH0nq5_V0bB7OOhNw/view?usp=sharing
+ Compiled fat jar: <a href="https://drive.google.com/file/d/1lodEyQS6yLZm9BZJH0nq5_V0bB7OOhNw/view?usp=sharing">download JAR from Google drive</a>
 
 #### Results
 After the program finishes, 3 files will be created:
