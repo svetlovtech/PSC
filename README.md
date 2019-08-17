@@ -1,5 +1,9 @@
 # PSC (Proxy Scrapper and Checker)
+
+<img src="https://imgur.com/N0qmKAx.png" width="300"/>
+
 Proxy scrapper and checker from proxyscrape.com
+
 <img src="https://imgur.com/3SUSIrb.gif" width="600"/>
 
 #### Usage
