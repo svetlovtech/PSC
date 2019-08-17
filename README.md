@@ -7,7 +7,7 @@ Proxy scrapper and checker from proxyscrape.com
 <img src="https://imgur.com/3SUSIrb.gif" width="600"/>
 
 #### Usage
-usage: SelenaPSC.jar [-h] [-p <arg>] [-t <arg>]
+usage: PSC-19.08.jar [-h] [-p <arg>] [-t <arg>]
 
  -h,--help                     print this message
  
