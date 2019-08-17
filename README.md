@@ -9,7 +9,7 @@ Proxy scrapper and checker from proxyscrape.com
 #### Usage
 usage: PSC-19.08.jar [-h] [-p <arg>] [-t <arg>]
 
- -h,--help                     print this message
+ -h,--help                     print help message
  
  -p,--thread-pool-size <arg>   thread pool size for checker. Default: 100
  
